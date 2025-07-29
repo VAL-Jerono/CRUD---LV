@@ -132,7 +132,7 @@ Want to take it further?
 
 **Valerie Jerono** 
 * Laravel -Developer & Data Enthusiast
-*GitHub: [@VAL-Jerono](https://github.com/VAL-Jerono)
+* GitHub: [@VAL-Jerono](https://github.com/VAL-Jerono)
 
 ---
 
