@@ -1,6 +1,8 @@
 # 🛠️ Laravel CRUD App
 
-This is a simple and clean **CRUD (Create, Read, Update, Delete)** application built with [Laravel](https://laravel.com/) — a modern PHP web framework. The application manages a list of users (or any resource) with full CRUD operations and leverages Laravel's built-in MVC architecture, routing, and Blade templating engine.
+This is a simple and clean **CRUD (Create, Read, Update, Delete)** application built with [Laravel](https://laravel.com/) — a modern PHP web framework. 
+
+The application manages a list of users (or any resource) with full CRUD operations and leverages Laravel's built-in MVC architecture, routing, and Blade templating engine.
 
 ---
 
@@ -128,8 +130,9 @@ Want to take it further?
 
 ## 🧑‍💻 Author
 
-**Valerie Jerono** – Laravel Developer & Data Enthusiast
-GitHub: [@VAL-Jerono](https://github.com/VAL-Jerono)
+**Valerie Jerono** 
+* Laravel -Developer & Data Enthusiast
+*GitHub: [@VAL-Jerono](https://github.com/VAL-Jerono)
 
 ---
 
